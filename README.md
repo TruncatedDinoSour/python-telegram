@@ -1,3 +1,4 @@
+# This repository has been migrated to the self-hosted ari-web Forgejo instance: <https://git.ari.lt/ari/python-telegram>
 # python-telegram
 
 [![Build Status](https://github.com/alexander-akhmetov/python-telegram/workflows/python-telegram%20tests/badge.svg)](https://github.com/alexander-akhmetov/python-telegram/actions)
